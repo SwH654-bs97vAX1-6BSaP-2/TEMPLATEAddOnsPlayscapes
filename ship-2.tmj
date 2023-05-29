@@ -130,7 +130,7 @@
                         {
                          "name":"zoom_margin",
                          "type":"float",
-                         "value":1
+                         "value":-1
                         }],
                  "rotation":0,
                  "type":"zone",
@@ -138,6 +138,23 @@
                  "width":898.421691622825,
                  "x":0,
                  "y":2.02347227842979
+                }, 
+                {
+                 "height":57.2393043223013,
+                 "id":2,
+                 "name":"exit-to-ship-1",
+                 "properties":[
+                        {
+                         "name":"exitUrl",
+                         "type":"string",
+                         "value":"ship-1.tmj"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":36.691861745065,
+                 "x":413.884200484333,
+                 "y":125.486167168122
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -172,7 +189,7 @@
          "y":0
         }],
  "nextlayerid":8,
- "nextobjectid":2,
+ "nextobjectid":3,
  "orientation":"orthogonal",
  "properties":[
         {

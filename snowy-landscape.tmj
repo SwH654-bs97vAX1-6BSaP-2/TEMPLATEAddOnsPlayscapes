@@ -205,7 +205,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"igloo.json#entry-from-snowy-landscape"
+                         "value":"igloo.tmj#entry-from-snowy-landscape"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -222,7 +222,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"igloo.json#entry-from-snowy-landscape"
+                         "value":"igloo.tmj#entry-from-snowy-landscape"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -239,7 +239,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"igloo.json#entry-from-snowy-landscape"
+                         "value":"igloo.tmj#entry-from-snowy-landscape"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -256,7 +256,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"igloo.json#entry-from-snowy-landscape"
+                         "value":"igloo.tmj#entry-from-snowy-landscape"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -273,7 +273,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"igloo.json#entry-from-snowy-landscape"
+                         "value":"igloo.tmj#entry-from-snowy-landscape"
                         }],
                  "rotation":0,
                  "type":"area",

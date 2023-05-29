@@ -225,7 +225,7 @@
          "objects":[
                 {
                  "height":60.6673,
-                 "id":4,
+                 "id":5,
                  "name":"exit-to-deck",
                  "properties":[
                         {
@@ -237,8 +237,8 @@
                  "type":"area",
                  "visible":true,
                  "width":64.0377,
-                 "x":31.0631566085912,
-                 "y":897.87301866927
+                 "x":31.4691002461778,
+                 "y":896.072154612594
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -289,7 +289,7 @@
          "y":0
         }],
  "nextlayerid":14,
- "nextobjectid":5,
+ "nextobjectid":6,
  "orientation":"orthogonal",
  "properties":[
         {
