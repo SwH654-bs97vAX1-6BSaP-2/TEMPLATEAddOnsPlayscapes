@@ -1878,6 +1878,29 @@
           "rotation": 0,
           "type": "area",
           "width": 35.1771098681484
+        },
+        {
+          "id": 8,
+          "name": "zoom-ship-1",
+          "visible": true,
+          "x": -1.52122241086587,
+          "y": 1.52122241086587,
+          "height": 479.18505942275,
+          "properties": [
+            {
+              "name": "focusable",
+              "type": "bool",
+              "value": true
+            },
+            {
+              "name": "zoom_margin",
+              "type": "float",
+              "value": 1
+            }
+          ],
+          "rotation": 0,
+          "type": "zone",
+          "width": 900.563667232598
         }
       ],
       "opacity": 1,
@@ -2327,7 +2350,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "ship-1-chunk-1-ad7f6758.png",
+      "image": "ship-1-chunk-1-7803a7cb.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -2353,7 +2376,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "ship-1-chunk-2-ad7f6758.png",
+      "image": "ship-1-chunk-2-7803a7cb.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -2368,7 +2391,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "ship-1-chunk-3-ad7f6758.png",
+      "image": "ship-1-chunk-3-7803a7cb.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -2383,7 +2406,7 @@
     {
       "columns": 9,
       "firstgid": 769,
-      "image": "ship-1-chunk-4-ad7f6758.png",
+      "image": "ship-1-chunk-4-7803a7cb.png",
       "imageheight": 288,
       "imagewidth": 288,
       "margin": 0,
@@ -2401,7 +2424,7 @@
   "height": 15,
   "infinite": false,
   "nextlayerid": 10,
-  "nextobjectid": 8,
+  "nextobjectid": 9,
   "orientation": "orthogonal",
   "properties": [
     {

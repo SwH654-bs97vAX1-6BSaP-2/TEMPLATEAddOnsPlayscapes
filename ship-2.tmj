@@ -1741,7 +1741,31 @@
     },
     {
       "name": "floorLayer",
-      "objects": [],
+      "objects": [
+        {
+          "id": 1,
+          "name": "zoom-ship-2",
+          "visible": true,
+          "x": 0,
+          "y": 2.02347227842979,
+          "height": 477.539457709429,
+          "properties": [
+            {
+              "name": "focusable",
+              "type": "bool",
+              "value": true
+            },
+            {
+              "name": "zoom_margin",
+              "type": "float",
+              "value": 1
+            }
+          ],
+          "rotation": 0,
+          "type": "zone",
+          "width": 898.421691622825
+        }
+      ],
       "opacity": 1,
       "type": "objectgroup",
       "visible": true,
@@ -2184,12 +2208,12 @@
       "y": 0
     }
   ],
-  "tiledversion": "1.9.2",
+  "tiledversion": "1.10.1",
   "tilesets": [
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "ship-2-chunk-1-e68a1a19.png",
+      "image": "ship-2-chunk-1-83d80abc.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -2235,7 +2259,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "ship-2-chunk-2-e68a1a19.png",
+      "image": "ship-2-chunk-2-83d80abc.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -2250,7 +2274,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "ship-2-chunk-3-e68a1a19.png",
+      "image": "ship-2-chunk-3-83d80abc.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -2265,7 +2289,7 @@
     {
       "columns": 9,
       "firstgid": 769,
-      "image": "ship-2-chunk-4-e68a1a19.png",
+      "image": "ship-2-chunk-4-83d80abc.png",
       "imageheight": 288,
       "imagewidth": 288,
       "margin": 0,
@@ -2283,7 +2307,7 @@
   "height": 15,
   "infinite": false,
   "nextlayerid": 8,
-  "nextobjectid": 1,
+  "nextobjectid": 2,
   "orientation": "orthogonal",
   "properties": [
     {
@@ -2305,6 +2329,6 @@
   "renderorder": "right-down",
   "tileheight": 32,
   "tilewidth": 32,
-  "version": "1.9",
+  "version": "1.10",
   "width": 28
 }

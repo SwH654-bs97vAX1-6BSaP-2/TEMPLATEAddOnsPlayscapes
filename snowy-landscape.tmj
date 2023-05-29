@@ -19435,7 +19435,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "igloo.tmj#entry-from-snowy-landscape"
+              "value": "igloo.json#entry-from-snowy-landscape"
             }
           ],
           "rotation": 0,
@@ -19453,7 +19453,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "igloo.tmj#entry-from-snowy-landscape"
+              "value": "igloo.json#entry-from-snowy-landscape"
             }
           ],
           "rotation": 0,
@@ -19471,7 +19471,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "igloo.tmj#entry-from-snowy-landscape"
+              "value": "igloo.json#entry-from-snowy-landscape"
             }
           ],
           "rotation": 0,
@@ -19489,7 +19489,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "igloo.tmj#entry-from-snowy-landscape"
+              "value": "igloo.json#entry-from-snowy-landscape"
             }
           ],
           "rotation": 0,
@@ -19507,7 +19507,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "igloo.tmj#entry-from-snowy-landscape"
+              "value": "igloo.json#entry-from-snowy-landscape"
             }
           ],
           "rotation": 0,
@@ -21625,6 +21625,11 @@
         6919,
         6920,
         6921,
+        0,
+        0,
+        0,
+        0,
+        0,
         6922,
         6923,
         6924,
@@ -21777,6 +21782,9 @@
         7071,
         7072,
         7073,
+        0,
+        0,
+        0,
         7074,
         7075,
         7076,
@@ -21797,6 +21805,11 @@
         7091,
         7092,
         7093,
+        0,
+        0,
+        0,
+        0,
+        0,
         7094,
         7095,
         7096,
@@ -21936,6 +21949,11 @@
         7230,
         7231,
         7232,
+        0,
+        0,
+        0,
+        0,
+        0,
         7233,
         7234,
         7235,
@@ -21945,6 +21963,9 @@
         7239,
         7240,
         7241,
+        0,
+        0,
+        0,
         7242,
         7243,
         7244,
@@ -21955,6 +21976,11 @@
         7249,
         7250,
         7251,
+        0,
+        0,
+        0,
+        0,
+        0,
         7252,
         7253,
         7254,
@@ -22079,6 +22105,9 @@
         7373,
         7374,
         7375,
+        0,
+        0,
+        0,
         7376,
         7377,
         7378,
@@ -22103,6 +22132,9 @@
         7397,
         7398,
         7399,
+        0,
+        0,
+        0,
         7400,
         7401,
         7402,
@@ -22237,6 +22269,11 @@
         7531,
         7532,
         7533,
+        0,
+        0,
+        0,
+        0,
+        0,
         7534,
         7535,
         7536,
@@ -22388,6 +22425,9 @@
         7682,
         7683,
         7684,
+        0,
+        0,
+        0,
         7685,
         7686,
         7687,
@@ -24338,47 +24378,7 @@
         9632,
         9633,
         9634,
-        9635,
-        9636,
-        9637,
-        9638,
-        9639,
-        9640,
-        9641,
-        9642,
-        9643,
-        9644,
-        9645,
-        9646,
-        9647,
-        9648,
-        9649,
-        9650,
-        9651,
-        9652,
-        9653,
-        9654,
-        9655,
-        9656,
-        9657,
-        9658,
-        9659,
-        9660,
-        9661,
-        9662,
-        9663,
-        9664,
-        9665,
-        9666,
-        9667,
-        9668,
-        9669,
-        9670,
-        9671,
-        9672,
-        9673,
-        9674,
-        9675
+        9635
       ],
       "height": 31,
       "id": 5,
@@ -24396,7 +24396,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "snowy-landscape-chunk-1-b759fe1f.png",
+      "image": "snowy-landscape-chunk-1-516345fa.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24422,7 +24422,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "snowy-landscape-chunk-2-b759fe1f.png",
+      "image": "snowy-landscape-chunk-2-516345fa.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24437,7 +24437,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "snowy-landscape-chunk-3-b759fe1f.png",
+      "image": "snowy-landscape-chunk-3-516345fa.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24452,7 +24452,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "snowy-landscape-chunk-4-b759fe1f.png",
+      "image": "snowy-landscape-chunk-4-516345fa.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24467,7 +24467,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "snowy-landscape-chunk-5-b759fe1f.png",
+      "image": "snowy-landscape-chunk-5-516345fa.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24482,7 +24482,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "snowy-landscape-chunk-6-b759fe1f.png",
+      "image": "snowy-landscape-chunk-6-516345fa.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24497,7 +24497,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "snowy-landscape-chunk-7-b759fe1f.png",
+      "image": "snowy-landscape-chunk-7-516345fa.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24512,7 +24512,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "snowy-landscape-chunk-8-b759fe1f.png",
+      "image": "snowy-landscape-chunk-8-516345fa.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24527,7 +24527,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "snowy-landscape-chunk-9-b759fe1f.png",
+      "image": "snowy-landscape-chunk-9-516345fa.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24542,7 +24542,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "snowy-landscape-chunk-10-b759fe1f.png",
+      "image": "snowy-landscape-chunk-10-516345fa.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24557,7 +24557,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "snowy-landscape-chunk-11-b759fe1f.png",
+      "image": "snowy-landscape-chunk-11-516345fa.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24572,7 +24572,7 @@
     {
       "columns": 16,
       "firstgid": 2817,
-      "image": "snowy-landscape-chunk-12-b759fe1f.png",
+      "image": "snowy-landscape-chunk-12-516345fa.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24587,7 +24587,7 @@
     {
       "columns": 16,
       "firstgid": 3073,
-      "image": "snowy-landscape-chunk-13-b759fe1f.png",
+      "image": "snowy-landscape-chunk-13-516345fa.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24602,7 +24602,7 @@
     {
       "columns": 16,
       "firstgid": 3329,
-      "image": "snowy-landscape-chunk-14-b759fe1f.png",
+      "image": "snowy-landscape-chunk-14-516345fa.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24617,7 +24617,7 @@
     {
       "columns": 16,
       "firstgid": 3585,
-      "image": "snowy-landscape-chunk-15-b759fe1f.png",
+      "image": "snowy-landscape-chunk-15-516345fa.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24632,7 +24632,7 @@
     {
       "columns": 16,
       "firstgid": 3841,
-      "image": "snowy-landscape-chunk-16-b759fe1f.png",
+      "image": "snowy-landscape-chunk-16-516345fa.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24647,7 +24647,7 @@
     {
       "columns": 16,
       "firstgid": 4097,
-      "image": "snowy-landscape-chunk-17-b759fe1f.png",
+      "image": "snowy-landscape-chunk-17-516345fa.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24662,7 +24662,7 @@
     {
       "columns": 16,
       "firstgid": 4353,
-      "image": "snowy-landscape-chunk-18-b759fe1f.png",
+      "image": "snowy-landscape-chunk-18-516345fa.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24677,7 +24677,7 @@
     {
       "columns": 16,
       "firstgid": 4609,
-      "image": "snowy-landscape-chunk-19-b759fe1f.png",
+      "image": "snowy-landscape-chunk-19-516345fa.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24692,7 +24692,7 @@
     {
       "columns": 16,
       "firstgid": 4865,
-      "image": "snowy-landscape-chunk-20-b759fe1f.png",
+      "image": "snowy-landscape-chunk-20-516345fa.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24707,7 +24707,7 @@
     {
       "columns": 16,
       "firstgid": 5121,
-      "image": "snowy-landscape-chunk-21-b759fe1f.png",
+      "image": "snowy-landscape-chunk-21-516345fa.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24722,7 +24722,7 @@
     {
       "columns": 16,
       "firstgid": 5377,
-      "image": "snowy-landscape-chunk-22-b759fe1f.png",
+      "image": "snowy-landscape-chunk-22-516345fa.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24737,7 +24737,7 @@
     {
       "columns": 16,
       "firstgid": 5633,
-      "image": "snowy-landscape-chunk-23-b759fe1f.png",
+      "image": "snowy-landscape-chunk-23-516345fa.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24752,7 +24752,7 @@
     {
       "columns": 16,
       "firstgid": 5889,
-      "image": "snowy-landscape-chunk-24-b759fe1f.png",
+      "image": "snowy-landscape-chunk-24-516345fa.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24767,7 +24767,7 @@
     {
       "columns": 16,
       "firstgid": 6145,
-      "image": "snowy-landscape-chunk-25-b759fe1f.png",
+      "image": "snowy-landscape-chunk-25-516345fa.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24782,7 +24782,7 @@
     {
       "columns": 16,
       "firstgid": 6401,
-      "image": "snowy-landscape-chunk-26-b759fe1f.png",
+      "image": "snowy-landscape-chunk-26-516345fa.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24797,7 +24797,7 @@
     {
       "columns": 16,
       "firstgid": 6657,
-      "image": "snowy-landscape-chunk-27-b759fe1f.png",
+      "image": "snowy-landscape-chunk-27-516345fa.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24812,7 +24812,7 @@
     {
       "columns": 16,
       "firstgid": 6913,
-      "image": "snowy-landscape-chunk-28-b759fe1f.png",
+      "image": "snowy-landscape-chunk-28-516345fa.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24827,7 +24827,7 @@
     {
       "columns": 16,
       "firstgid": 7169,
-      "image": "snowy-landscape-chunk-29-b759fe1f.png",
+      "image": "snowy-landscape-chunk-29-516345fa.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24842,7 +24842,7 @@
     {
       "columns": 16,
       "firstgid": 7425,
-      "image": "snowy-landscape-chunk-30-b759fe1f.png",
+      "image": "snowy-landscape-chunk-30-516345fa.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24857,7 +24857,7 @@
     {
       "columns": 16,
       "firstgid": 7681,
-      "image": "snowy-landscape-chunk-31-b759fe1f.png",
+      "image": "snowy-landscape-chunk-31-516345fa.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24872,7 +24872,7 @@
     {
       "columns": 16,
       "firstgid": 7937,
-      "image": "snowy-landscape-chunk-32-b759fe1f.png",
+      "image": "snowy-landscape-chunk-32-516345fa.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24887,7 +24887,7 @@
     {
       "columns": 16,
       "firstgid": 8193,
-      "image": "snowy-landscape-chunk-33-b759fe1f.png",
+      "image": "snowy-landscape-chunk-33-516345fa.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24902,7 +24902,7 @@
     {
       "columns": 16,
       "firstgid": 8449,
-      "image": "snowy-landscape-chunk-34-b759fe1f.png",
+      "image": "snowy-landscape-chunk-34-516345fa.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24917,7 +24917,7 @@
     {
       "columns": 16,
       "firstgid": 8705,
-      "image": "snowy-landscape-chunk-35-b759fe1f.png",
+      "image": "snowy-landscape-chunk-35-516345fa.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24932,7 +24932,7 @@
     {
       "columns": 16,
       "firstgid": 8961,
-      "image": "snowy-landscape-chunk-36-b759fe1f.png",
+      "image": "snowy-landscape-chunk-36-516345fa.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24947,7 +24947,7 @@
     {
       "columns": 16,
       "firstgid": 9217,
-      "image": "snowy-landscape-chunk-37-b759fe1f.png",
+      "image": "snowy-landscape-chunk-37-516345fa.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24960,16 +24960,16 @@
       "tiles": []
     },
     {
-      "columns": 15,
+      "columns": 13,
       "firstgid": 9473,
-      "image": "snowy-landscape-chunk-38-b759fe1f.png",
-      "imageheight": 480,
-      "imagewidth": 480,
+      "image": "snowy-landscape-chunk-38-516345fa.png",
+      "imageheight": 416,
+      "imagewidth": 416,
       "margin": 0,
       "name": "Chunk 38",
       "properties": [],
       "spacing": 0,
-      "tilecount": 203,
+      "tilecount": 163,
       "tileheight": 32,
       "tilewidth": 32,
       "tiles": []
