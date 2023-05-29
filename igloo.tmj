@@ -1035,11 +1035,11 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "snowy-landscape.json#entry-from-igloo"
+              "value": "snowy-landscape.tmj#entry-from-igloo"
             }
           ],
           "rotation": 0,
-          "class": "area",
+          "type": "area",
           "width": 35.254370072957
         },
         {
@@ -1053,11 +1053,11 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "snowy-landscape.json#entry-from-igloo"
+              "value": "snowy-landscape.tmj#entry-from-igloo"
             }
           ],
           "rotation": 0,
-          "class": "area",
+          "type": "area",
           "width": 35.2544
         }
       ],
@@ -1070,12 +1070,12 @@
       "y": 0
     }
   ],
-  "tiledversion": "1.9.2",
+  "tiledversion": "1.10.1",
   "tilesets": [
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "igloo-chunk-1-7d0d8371.png",
+      "image": "igloo-chunk-1-45749ae5.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -1101,7 +1101,7 @@
     {
       "columns": 7,
       "firstgid": 257,
-      "image": "igloo-chunk-2-7d0d8371.png",
+      "image": "igloo-chunk-2-45749ae5.png",
       "imageheight": 224,
       "imagewidth": 224,
       "margin": 0,
@@ -1141,6 +1141,6 @@
   "renderorder": "right-down",
   "tileheight": 32,
   "tilewidth": 32,
-  "version": "1.9",
+  "version": "1.10",
   "width": 25
 }

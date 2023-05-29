@@ -1764,11 +1764,11 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "ship-2.json"
+              "value": "ship-2.tmj"
             }
           ],
           "rotation": 0,
-          "class": "area",
+          "type": "area",
           "width": 164.202271056286
         },
         {
@@ -1782,11 +1782,11 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "ocean.json#entry-from-ship-1"
+              "value": "ocean.tmj#entry-from-ship-1"
             }
           ],
           "rotation": 0,
-          "class": "area",
+          "type": "area",
           "width": 37.578629196961
         },
         {
@@ -1800,11 +1800,11 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "ocean.json#entry-from-ship-1"
+              "value": "ocean.tmj#entry-from-ship-1"
             }
           ],
           "rotation": 0,
-          "class": "area",
+          "type": "area",
           "width": 37.5786
         },
         {
@@ -1818,11 +1818,11 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "ocean.json#entry-from-ship-1"
+              "value": "ocean.tmj#entry-from-ship-1"
             }
           ],
           "rotation": 0,
-          "class": "area",
+          "type": "area",
           "width": 68.6218154235765
         },
         {
@@ -1836,11 +1836,11 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "ocean.json#entry-from-ship-1"
+              "value": "ocean.tmj#entry-from-ship-1"
             }
           ],
           "rotation": 0,
-          "class": "area",
+          "type": "area",
           "width": 31.860097524712
         },
         {
@@ -1854,11 +1854,11 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "ocean.json#entry-from-ship-1"
+              "value": "ocean.tmj#entry-from-ship-1"
             }
           ],
           "rotation": 0,
-          "class": "area",
+          "type": "area",
           "width": 67.5181147607597
         },
         {
@@ -1872,11 +1872,11 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "ocean.json#entry-from-ship-1"
+              "value": "ocean.tmj#entry-from-ship-1"
             }
           ],
           "rotation": 0,
-          "class": "area",
+          "type": "area",
           "width": 35.1771098681484
         }
       ],
@@ -2322,12 +2322,12 @@
       "y": 0
     }
   ],
-  "tiledversion": "1.9.2",
+  "tiledversion": "1.10.1",
   "tilesets": [
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "ship-1-chunk-1-1e0666ae.png",
+      "image": "ship-1-chunk-1-ad7f6758.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -2353,7 +2353,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "ship-1-chunk-2-1e0666ae.png",
+      "image": "ship-1-chunk-2-ad7f6758.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -2368,7 +2368,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "ship-1-chunk-3-1e0666ae.png",
+      "image": "ship-1-chunk-3-ad7f6758.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -2383,7 +2383,7 @@
     {
       "columns": 9,
       "firstgid": 769,
-      "image": "ship-1-chunk-4-1e0666ae.png",
+      "image": "ship-1-chunk-4-ad7f6758.png",
       "imageheight": 288,
       "imagewidth": 288,
       "margin": 0,
@@ -2423,6 +2423,6 @@
   "renderorder": "right-down",
   "tileheight": 32,
   "tilewidth": 32,
-  "version": "1.9",
+  "version": "1.10",
   "width": 28
 }
