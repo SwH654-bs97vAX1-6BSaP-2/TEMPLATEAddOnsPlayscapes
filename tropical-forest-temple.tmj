@@ -116,7 +116,6 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "class":"area",
                  "height":65.5044357334434,
                  "id":1,
                  "name":"exit-to-tropical-forest",
@@ -124,9 +123,10 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"tropical-forest.json#entry-from-temple"
+                         "value":"tropical-forest.tmj#entry-from-temple"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":33.0101093459872,
                  "x":255.31256447287,
@@ -194,7 +194,7 @@
          "value":"This map is the sole property of 100 Roads Inc. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Inc."
         }],
  "renderorder":"right-down",
- "tiledversion":"1.9.2",
+ "tiledversion":"1.10.1",
  "tileheight":32,
  "tilesets":[
         {
@@ -248,6 +248,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.9",
+ "version":"1.10",
  "width":56
 }

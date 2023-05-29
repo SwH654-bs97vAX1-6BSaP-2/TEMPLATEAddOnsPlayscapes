@@ -128,7 +128,6 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "class":"area",
                  "height":43.2971162486725,
                  "id":1,
                  "name":"exit-to-ship-2",
@@ -136,16 +135,16 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"ship-2.json"
+                         "value":"ship-2.tmj"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":164.202271056286,
                  "x":384.772485908014,
                  "y":415.815701331591
                 }, 
                 {
-                 "class":"area",
                  "height":35.1278490319418,
                  "id":2,
                  "name":"exit",
@@ -153,16 +152,16 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"ocean.json#entry-from-ship-1"
+                         "value":"ocean.tmj#entry-from-ship-1"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":37.578629196961,
                  "x":62.086430847153,
                  "y":352.095417041091
                 }, 
                 {
-                 "class":"area",
                  "height":35.1278,
                  "id":3,
                  "name":"exit",
@@ -170,16 +169,16 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"ocean.json#entry-from-ship-1"
+                         "value":"ocean.tmj#entry-from-ship-1"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":37.5786,
                  "x":285.924367184054,
                  "y":252.021918152112
                 }, 
                 {
-                 "class":"area",
                  "height":35.1278,
                  "id":4,
                  "name":"exit",
@@ -187,16 +186,16 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"ocean.json#entry-from-ship-1"
+                         "value":"ocean.tmj#entry-from-ship-1"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":68.6218154235765,
                  "x":189.527014026632,
                  "y":286.332840462381
                 }, 
                 {
-                 "class":"area",
                  "height":35.1278,
                  "id":5,
                  "name":"exit",
@@ -204,16 +203,16 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"ocean.json#entry-from-ship-1"
+                         "value":"ocean.tmj#entry-from-ship-1"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":31.860097524712,
                  "x":638.836718658606,
                  "y":287.966693905727
                 }, 
                 {
-                 "class":"area",
                  "height":35.1278,
                  "id":6,
                  "name":"exit",
@@ -221,16 +220,16 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"ocean.json#entry-from-ship-1"
+                         "value":"ocean.tmj#entry-from-ship-1"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":67.5181147607597,
                  "x":796.740984082428,
                  "y":350.625833808774
                 }, 
                 {
-                 "class":"area",
                  "height":35.1278,
                  "id":7,
                  "name":"exit",
@@ -238,9 +237,10 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"ocean.json#entry-from-ship-1"
+                         "value":"ocean.tmj#entry-from-ship-1"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":35.1771098681484,
                  "x":861.837599805125,
@@ -298,7 +298,7 @@
          "value":"This map is the sole property of 100 Roads Inc. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Inc."
         }],
  "renderorder":"right-down",
- "tiledversion":"1.9.2",
+ "tiledversion":"1.10.1",
  "tileheight":32,
  "tilesets":[
         {
@@ -352,6 +352,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.9",
+ "version":"1.10",
  "width":28
 }

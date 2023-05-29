@@ -17,6 +17,30 @@ WA.onInit().then(() => {
         currentPopup = WA.ui.openPopup("clockPopup","It's " + time,[]);
     })
 // custom code
+WA.room.onEnterLayer("floor").subscribe(() => {
+  WA.room.hideLayer("roof");
+  WA.room.hideLayer("walls-bg-front");
+  WA.room.hideLayer("sign");
+});
+
+WA.room.onLeaveLayer("floor").subscribe(() => {
+  WA.room.showLayer("roof");
+  WA.room.showLayer("walls-bg-front");
+  WA.room.showLayer("facade-furniture-bg");
+  WA.room.showLayer("sign");
+});
+
+WA.room.onEnterLayer("rooms_floor").subscribe(() => {
+  WA.room.hideLayer("facade-furniture-fg");
+  WA.room.hideLayer("facade");
+  WA.room.hideLayer("facade-furniture-bg");
+});
+
+WA.room.onLeaveLayer("rooms_floor").subscribe(() => {
+  WA.room.showLayer("facade-furniture-fg");
+  WA.room.showLayer("facade");
+  WA.room.showLayer("facade-furniture-bg");
+});
 
 //Popup Oncean campus
 WA.room.onEnterLayer('message-1').subscribe(() => {

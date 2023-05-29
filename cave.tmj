@@ -286,7 +286,6 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "class":"area",
                  "height":52.3903077930582,
                  "id":1,
                  "name":"CampusPopup",
@@ -307,13 +306,13 @@
                          "value":"Current map is the sole property of 100 Roads Inc. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Inc."
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":80.8967987981047,
                  "x":107.937077704371,
                  "y":899.683093685975
                 }, 
                 {
-                 "class":"area",
                  "height":40.4944586530264,
                  "id":2,
                  "name":"exit-to-campus",
@@ -324,13 +323,13 @@
                          "value":""
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":45.4674623472577,
                  "x":39.7840295538505,
                  "y":907.928388746803
                 }, 
                 {
-                 "class":"area",
                  "height":40.4945,
                  "id":4,
                  "name":"exit-to-small-cave",
@@ -338,9 +337,10 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"small-cave.json"
+                         "value":"small-cave.tmj"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":45.4675,
                  "x":4731.45778168514,
@@ -419,7 +419,7 @@
          "value":"This map is the sole property of 100 Roads Inc. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Inc."
         }],
  "renderorder":"right-down",
- "tiledversion":"1.9.2",
+ "tiledversion":"1.10.1",
  "tileheight":32,
  "tilesets":[
         {
@@ -671,6 +671,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.9",
+ "version":"1.10",
  "width":156
 }

@@ -376,29 +376,28 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "class":"area",
                  "height":61.7182656893848,
                  "id":1,
                  "name":"CampusPopup1",
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":94.0342048645299,
                  "x":32.5930788024651,
                  "y":544.561134813843
                 }, 
                 {
-                 "class":"area",
                  "height":63.2583224529155,
                  "id":2,
                  "name":"CampusPopup2",
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":94.7705725233182,
                  "x":4832.50215474941,
                  "y":608.152206378058
                 }, 
                 {
-                 "class":"area",
                  "height":34.0025152545531,
                  "id":4,
                  "name":"exit-to-ship-1",
@@ -406,9 +405,10 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"ship-1.json"
+                         "value":"ship-1.tmj"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":33.5367273743536,
                  "x":1504.02906516372,
@@ -487,7 +487,7 @@
          "value":"This map is the sole property of 100 Roads Inc. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Inc."
         }],
  "renderorder":"right-down",
- "tiledversion":"1.9.2",
+ "tiledversion":"1.10.1",
  "tileheight":32,
  "tilesets":[
         {
@@ -1265,6 +1265,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.9",
+ "version":"1.10",
  "width":156
 }

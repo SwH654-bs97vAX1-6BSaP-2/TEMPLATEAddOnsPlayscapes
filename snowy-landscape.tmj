@@ -198,7 +198,6 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "class":"area",
                  "height":31.9308790383171,
                  "id":1,
                  "name":"exit-to-igloo",
@@ -206,16 +205,16 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"igloo.json#entry-from-snowy-landscape"
+                         "value":"igloo.tmj#entry-from-snowy-landscape"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":30.678687703481,
                  "x":2144.37766090659,
                  "y":479.589281242174
                 }, 
                 {
-                 "class":"area",
                  "height":31.9309,
                  "id":2,
                  "name":"exit-to-igloo",
@@ -223,16 +222,16 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"igloo.json#entry-from-snowy-landscape"
+                         "value":"igloo.tmj#entry-from-snowy-landscape"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":30.6787,
                  "x":1825.38191220887,
                  "y":416.040560518407
                 }, 
                 {
-                 "class":"area",
                  "height":31.9309,
                  "id":3,
                  "name":"exit-to-igloo",
@@ -240,16 +239,16 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"igloo.json#entry-from-snowy-landscape"
+                         "value":"igloo.tmj#entry-from-snowy-landscape"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":30.6787,
                  "x":2400.37898656685,
                  "y":543.440338726879
                 }, 
                 {
-                 "class":"area",
                  "height":31.9309,
                  "id":4,
                  "name":"exit-to-igloo",
@@ -257,16 +256,16 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"igloo.json#entry-from-snowy-landscape"
+                         "value":"igloo.tmj#entry-from-snowy-landscape"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":30.6787,
                  "x":3007.6785528133,
                  "y":480.19823286445
                 }, 
                 {
-                 "class":"area",
                  "height":31.9309,
                  "id":5,
                  "name":"exit-to-igloo",
@@ -274,16 +273,16 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"igloo.json#entry-from-snowy-landscape"
+                         "value":"igloo.tmj#entry-from-snowy-landscape"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":30.6787,
                  "x":2592.62557510047,
                  "y":446.584787486299
                 }, 
                 {
-                 "class":"area",
                  "height":66.833078347693,
                  "id":6,
                  "name":"exit-to-wooden-cabinet",
@@ -291,9 +290,10 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"wooden-cabinet.json#entry-from-snowy-landscape"
+                         "value":"wooden-cabinet.tmj#entry-from-snowy-landscape"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96.6261373701586,
                  "x":352.685401401079,
@@ -367,7 +367,7 @@
          "value":"This map is the sole property of 100 Roads Inc. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Inc."
         }],
  "renderorder":"right-down",
- "tiledversion":"1.9.2",
+ "tiledversion":"1.10.1",
  "tileheight":32,
  "tilesets":[
         {
@@ -421,6 +421,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.9",
+ "version":"1.10",
  "width":156
 }

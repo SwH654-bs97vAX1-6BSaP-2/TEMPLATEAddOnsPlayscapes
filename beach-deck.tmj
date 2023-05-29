@@ -286,18 +286,17 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "class":"area",
                  "height":64.1839469600791,
                  "id":3,
                  "name":"PopupBeach",
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":95.9232613908873,
                  "x":64.463506813059,
                  "y":639.031034138965
                 }, 
                 {
-                 "class":"area",
                  "height":60.6673407482305,
                  "id":4,
                  "name":"exit-to-campus",
@@ -308,13 +307,13 @@
                          "value":""
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":64.0377485675767,
                  "x":32.0188742837883,
                  "y":738.119312436805
                 }, 
                 {
-                 "class":"area",
                  "height":60.6673,
                  "id":5,
                  "name":"exit-to-beach",
@@ -322,9 +321,10 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"beach.json"
+                         "value":"beach.tmj"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":93.5022144760437,
                  "x":2432.72452967018,
@@ -403,7 +403,7 @@
          "value":"This map is the sole property of 100 Roads Inc. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Inc."
         }],
  "renderorder":"right-down",
- "tiledversion":"1.9.2",
+ "tiledversion":"1.10.1",
  "tileheight":32,
  "tilesets":[
         {
@@ -1339,6 +1339,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.9",
+ "version":"1.10",
  "width":144
 }
