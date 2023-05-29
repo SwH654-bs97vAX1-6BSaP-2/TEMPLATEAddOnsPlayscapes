@@ -245,6 +245,28 @@
                  "width":35.1771098681484,
                  "x":861.837599805125,
                  "y":383.796080097852
+                }, 
+                {
+                 "height":479.18505942275,
+                 "id":8,
+                 "name":"zoom-ship-1",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":1
+                        }],
+                 "rotation":0,
+                 "type":"zone",
+                 "visible":true,
+                 "width":900.563667232598,
+                 "x":-1.52122241086587,
+                 "y":1.52122241086587
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -279,7 +301,7 @@
          "y":0
         }],
  "nextlayerid":10,
- "nextobjectid":8,
+ "nextobjectid":9,
  "orientation":"orthogonal",
  "properties":[
         {

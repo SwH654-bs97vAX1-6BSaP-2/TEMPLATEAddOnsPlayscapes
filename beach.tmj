@@ -234,7 +234,7 @@
                          "value":"beach-deck.tmj#entry-from-beach"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":64.0377,
                  "x":31.0631566085912,
